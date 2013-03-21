@@ -6,7 +6,7 @@ from django.contrib import admin
 admin.autodiscover()
 
 urlpatterns = patterns('',
-    url(r'^$', include('map.urls'))
+    # url(r'^$', include('map.urls'))
     # Examples:
     # url(r'^$', 'gmaps.views.home', name='home'),
     # url(r'^gmaps/', include('gmaps.foo.urls')),
