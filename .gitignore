@@ -3,4 +3,4 @@ local/*
 lib/*
 include/*
 tmp.db
-local/*
+local/
